@@ -1,4 +1,4 @@
-# Demo-Project-1
+# Employee-Management-Project
 
 This project is made for the general understanding of the spring boot implementation and usage.
 
