@@ -51,5 +51,9 @@ In this we could have all the logics through methods. We use the CRUD repository
 4. <b>Interface of  ``CrudRepository``:</b> This Interface is used for the CRUD operations for the Database.
 
 
+5. <b>JPA: </b> This is ORM(object relation mapping) tool . Used for converting object to tables in database and perform operations.
+    Uses Dao to implement CRUDRepository/JPARepositry for easy access of CRUD operations.  
+    Use tag : ```@Entity``` for setting POJO as DB table with schema.
+
 # Project Overview:
 
